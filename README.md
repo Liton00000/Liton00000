@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on my jurney
-- 📫 How to reach me ...
+-  
 
 <!---
 Liton00000/Liton00000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
